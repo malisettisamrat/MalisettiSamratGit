@@ -1,3 +1,3 @@
 # MalisettiSamratGit
 
-To Understand the uploading the files from git bash
+To Understand the uploading files from git bash
